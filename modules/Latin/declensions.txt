@@ -1,0 +1,26 @@
+?
+first declension
+table
+nominative sg : a
+genitive sg : ae
+dative sg : ae
+accusative sg : am
+ablative sg : a
+nominative pl : ae
+genitive pl : arum
+dative pl : is
+accusative pl : as
+ablative pl : is
+?
+second declension
+table
+nominative sg : us
+genitive sg : i
+dative sg : o
+accusative sg : um
+ablative sg : o
+nominative pl : i
+genitive pl : orum
+dative pl : is
+accusative pl : os
+ablative pl : is

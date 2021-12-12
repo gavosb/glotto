@@ -1,0 +1,18 @@
+?
+first conjugation indicative present active
+table
+1st sg : o
+2nd sg : as
+3rd sg : at
+1st pl : amus
+2nd pl : atis
+3rd pl : ant
+?
+first conjugation indicative present passive
+table
+1st sg : or
+2nd sg : aris
+3rd sg : atur
+1st pl : amur
+2nd pl : amini
+3rd pl : antur
