@@ -1,4 +1,4 @@
-# glotto
+# Glotto
 Universal Modular Proficiency Trainer
 
 What started as a "universal language proficiency trainer" became little more than a modular flashcard program. I still have plans to turn it into more than this, however.
