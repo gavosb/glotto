@@ -108,8 +108,8 @@ public class ModuleLoader {
     }
 
     public void scanModules(){
-        final File folder = new File("./modules/");
-        for (final File fileEntry : folder.listFiles()) {
+        File folder = new File("./modules/");
+        for (File fileEntry : folder.listFiles()) {
             if (fileEntry.isDirectory()) {
                 addModule(scanModule(fileEntry.getName()));
             }
