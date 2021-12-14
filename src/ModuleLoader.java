@@ -66,8 +66,8 @@ public class ModuleLoader {
             }
         }
 
-        public void listFiles(final File folder) {
-            for (final File fileEntry : folder.listFiles()) {
+        public void listFiles(File folder) {
+            for (File fileEntry : folder.listFiles()) {
                 if (!fileEntry.isDirectory()) {
                     assembleCardSet(fileEntry.getName());
                 }
