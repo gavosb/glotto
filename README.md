@@ -4,6 +4,8 @@ Universal Modular Proficiency Trainer
 What started as a "universal language proficiency trainer" became little more than a modular flashcard program. I still have plans to turn it into more than this, however.
 Each module supports a 'language' - which can really be anything. So long as it fits within one of the compatible formats for cards. You could use this to go over chemistry notes for all I care.
 
+![Preview](image.png)
+
 ## Getting Started
 
 The program can be run from the main() method in App.java
